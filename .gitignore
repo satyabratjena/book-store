@@ -2,5 +2,6 @@ venv/
 .vscode/
 __pycache__
 migrations/version/README
-
+emp_dept.json
+employee.json
 
